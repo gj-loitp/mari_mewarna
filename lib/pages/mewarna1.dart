@@ -533,7 +533,7 @@ class _Mewarna1PageState extends State<Mewarna1Page> {
                       Navigator.of(context).pop(true);
                     },
                     style: ElevatedButton.styleFrom(
-                      primary: Colors.red,
+                      backgroundColor: Colors.red,
                       // backgroundColor: Colors.red,
                     ),
                   ),
